@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "fullName": "Shaxzod Shukurullaev",
+      "age": "19",
+      "address": "Tinchlik.m, 3pr, 68uy",
+      "status": "Student of WBBA",
+      "nickname": "Shaxzod",
+      "univ": "Shaxzod",
+      "job": "Shaxzod"
+    },
+    {
+        "id": 2,
+        "fullName": "Shaxzod Shukurullaev",
+        "age": "19",
+        "address": "Tinchlik.m, 3pr, 68uy",
+        "status": "Student of WBBA",
+        "nickname": "Shaxzod",
+        "univ": "WBBA",
+        "job": "Developer"
+    },
+    {
+        "id": 3,
+        "fullName": "Shaxzod Shukurullaev",
+        "age": "19",
+        "address": "Tinchlik.m, 3pr, 68uy",
+        "status": "Student of WBBA",
+        "nickname": "Shaxzod",
+        "univ": "Shaxzod",
+        "job": "Shaxzod"
+    },
+    {
+        "id": 4,
+        "fullName": "Shaxzod Shukurullaev",
+        "age": "19",
+        "address": "Tinchlik.m, 3pr, 68uy",
+        "status": "Student of WBBA",
+        "nickname": "Shaxzod",
+        "univ": "Shaxzod",
+        "job": "Shaxzod"
+    },
+    {
+        "id": 5,
+        "fullName": "Shaxzod Shukurullaev",
+        "age": "19",
+        "address": "Tinchlik.m, 3pr, 68uy",
+        "status": "Student of WBBA",
+        "nickname": "Shaxzod",
+        "univ": "Shaxzod",
+        "job": "Shaxzod"
+    }
+  ]
